@@ -1,4 +1,0 @@
-lalalal ${{OLDPWD}} jdaskldjaskldsa
-
-
-${{GOPATH}} hier liegt go
