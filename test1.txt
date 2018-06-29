@@ -1,0 +1,4 @@
+lalalal /home/fasibio/git/goWorkspace/src/github.com/fasibio/env2File jdaskldjaskldsa
+
+
+/home/fasibio/git/goWorkspace hier liegt go
